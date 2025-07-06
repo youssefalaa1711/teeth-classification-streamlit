@@ -18,7 +18,7 @@ This project uses transfer learning (MobileNetV2) to classify dental images into
 ## 🖼️ Visual Results
 
 ### ✅ Confusion Matrix  
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_matrix.png)
 
 ---
 
