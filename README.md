@@ -29,7 +29,7 @@ This project uses transfer learning (MobileNetV2) to classify dental images into
 ---
 
 ### 🌐 Streamlit App Preview  
-![Streamlit UI](images/streamlit_page.png)
+![Streamlit UI](images/Streamlit_page.png)
 
 ---
 
